@@ -13,5 +13,5 @@ void testMe(int in){
 }
 
 void anotherFunction(){
-    return 0; //!< test
+    return 0; //!< test 2
 }
